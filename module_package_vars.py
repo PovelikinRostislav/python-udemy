@@ -12,7 +12,7 @@ print(f"mypackage.__package__ IS {mypackage.__package__}")
 print(f"mypackage.__spec__ IS {mypackage.__spec__}")
 print("----")
 
-import mypackage.subpkg as subpkg
+from mypackage import subpkg
 print(f"subpkg.__path__ IS {subpkg.__path__}")
 print(f"subpkg.__package__ IS {subpkg.__package__}")
 print("----")
