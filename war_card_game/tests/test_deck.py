@@ -13,9 +13,15 @@ class TestDeck(unittest.TestCase):
 
         self.assertFalse(any(ranks_dict.values()))
 
-    def test_cards_in_custom_deck(self):
-        list_of_cards = [Card(rank) for rank in ranks]
-        deck = Deck(list_of_cards)
+    def test_splitted_in_half_decks(self):
+        initial_deck = Deck()
+        expected_size = len(initial_deck.cards) // 2
 
-        self.assertEquals(len(list_of_cards), 0)
-        self.assertEquals(len(deck.cards), len(ranks))
+        deck = initial_deck.split()
+
+        self.assertEqual(len(initial_deck.cards), expected_size)
+        self.assertEqual(len(deck.cards), expected_size)
+
+    def test_ctor_throws_exception(self):
+        with self.assertRaises(TypeError):
+            Deck(3)
