@@ -32,6 +32,13 @@ class TestDeck(unittest.TestCase):
         self.assertEqual(len(initial_deck), expected_size)
         self.assertEqual(len(deck), expected_size)
 
+    def test_splitted_single_card(self):
+        single_card_deck = Deck([Card(ranks[0])])
+
+        single_card_deck.split()
+
+        self.assertEqual(len(single_card_deck), 1)
+
     def test_ctor_throws_exception(self):
         with self.assertRaises(TypeError):
             Deck(42)
