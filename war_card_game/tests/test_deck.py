@@ -13,15 +13,25 @@ class TestDeck(unittest.TestCase):
 
         self.assertFalse(any(ranks_dict.values()))
 
+    def test_ctor_from_cards_list(self):
+        cards_list = [Card(rank) for rank in ranks]
+
+        deck = Deck(cards_list)
+
+        self.assertEqual(len(deck), len(ranks))
+
+        # Check that initial list is not changed
+        self.assertEqual(len(cards_list), len(ranks))
+
     def test_splitted_in_half_decks(self):
         initial_deck = Deck()
-        expected_size = len(initial_deck.cards) // 2
+        expected_size = len(initial_deck) // 2
 
         deck = initial_deck.split()
 
-        self.assertEqual(len(initial_deck.cards), expected_size)
-        self.assertEqual(len(deck.cards), expected_size)
+        self.assertEqual(len(initial_deck), expected_size)
+        self.assertEqual(len(deck), expected_size)
 
     def test_ctor_throws_exception(self):
         with self.assertRaises(TypeError):
-            Deck(3)
+            Deck(42)
