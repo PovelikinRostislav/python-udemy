@@ -14,3 +14,7 @@ class TestCard(unittest.TestCase):
     def test_card_ctor_throws_value_error(self):
         with self.assertRaises(ValueError):
             Card('one')
+
+    def test_card_ctor_throws_type_error(self):
+        with self.assertRaises(TypeError):
+            Card(1)

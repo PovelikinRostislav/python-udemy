@@ -7,11 +7,13 @@ del rank, idx
 
 class Card:
     def __init__(self, rank):
-        if rank not in ranks:
+        if not isinstance(rank, str):
+            raise TypeError()
+        elif rank not in ranks:
             raise ValueError()
-
-        self.rank = rank
-        self.value = values[rank]
+        else:
+            self.rank = rank
+            self.value = values[rank]
 
     def __repr__(self):
         return f"Card of {self.rank} value"
