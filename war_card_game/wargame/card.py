@@ -12,3 +12,6 @@ class Card:
 
         self.rank = rank
         self.value = values[rank]
+
+    def __repr__(self):
+        return self.rank
