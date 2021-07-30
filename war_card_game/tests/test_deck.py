@@ -23,14 +23,18 @@ class TestDeck(unittest.TestCase):
         # Check that initial list is not changed
         self.assertEqual(len(cards_list), len(ranks))
 
+    def test_ctor_throws_exception(self):
+        with self.assertRaises(TypeError):
+            Deck(42)
+
     def test_splitted_in_half_decks(self):
         initial_deck = Deck()
         expected_size = len(initial_deck) // 2
 
-        deck = initial_deck.split()
+        new_deck = initial_deck.split()
 
         self.assertEqual(len(initial_deck), expected_size)
-        self.assertEqual(len(deck), expected_size)
+        self.assertEqual(len(new_deck), expected_size)
 
     def test_splitted_single_card(self):
         single_card_deck = Deck([Card(ranks[0])])
@@ -39,6 +43,10 @@ class TestDeck(unittest.TestCase):
 
         self.assertEqual(len(single_card_deck), 1)
 
-    def test_ctor_throws_exception(self):
-        with self.assertRaises(TypeError):
-            Deck(42)
+    def test_splitted_odd_deck(self):
+        odd_deck = Deck([Card(rank) for rank in ranks])
+
+        new_deck = odd_deck.split()
+
+        self.assertEqual(len(odd_deck), len(ranks) // 2 + 1)
+        self.assertEqual(len(new_deck), len(ranks) // 2)
