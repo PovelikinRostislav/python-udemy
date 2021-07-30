@@ -1,6 +1,6 @@
 import unittest
 from wargame.deck import Deck
-from wargame.card import ranks
+from wargame.card import ranks, Card
 
 class TestDeck(unittest.TestCase):
     def test_cards_in_default_deck(self):
@@ -13,3 +13,9 @@ class TestDeck(unittest.TestCase):
 
         self.assertFalse(any(ranks_dict.values()))
 
+    def test_cards_in_custom_deck(self):
+        list_of_cards = [Card(rank) for rank in ranks]
+        deck = Deck(list_of_cards)
+
+        self.assertEquals(len(list_of_cards), 0)
+        self.assertEquals(len(deck.cards), len(ranks))

@@ -3,6 +3,7 @@ ranks = ('Two', 'Three', 'Four', 'Five', 'Six', 'Seven',
 values = {}
 for idx, rank in enumerate(ranks):
     values[rank] = idx
+del rank, idx
 
 class Card:
     def __init__(self, rank):
