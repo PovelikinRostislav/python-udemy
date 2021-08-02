@@ -61,3 +61,14 @@ class TestDeck(unittest.TestCase):
         deck.shuffle()
 
         self.assertTrue(deck.shuffled)
+
+class GetCardTestCase(unittest.TestCase):
+    def setUp(self):
+        self.deck = Deck()
+        self.card = self.deck.get_card()
+
+    def test_deck_len_decreased(self):
+        self.assertEqual(len(self.deck), 51)
+
+    def test_card_value(self):
+        self.assertEqual(self.card.rank, ranks[0])

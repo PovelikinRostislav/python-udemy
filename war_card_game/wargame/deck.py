@@ -15,6 +15,12 @@ class Deck:
         else:
             raise TypeError()
 
+    def __repr__(self):
+        return f"Deck of {len(self.cards)} cards"
+
+    def __len__(self):
+        return len(self.cards)
+
     def split(self):
         popped_cards = []
         for idx in range(len(self.cards) // 2):
@@ -25,8 +31,8 @@ class Deck:
         shuffle(self.cards)
         self.shuffled = True
 
-    def __repr__(self):
-        return f"Deck of {len(self.cards)} cards"
-
-    def __len__(self):
-        return len(self.cards)
+    def get_card(self):
+        if len(self.cards) > 0:
+            return self.cards.pop(0)
+        else:
+            raise IndexError('getting card from empty deck')
