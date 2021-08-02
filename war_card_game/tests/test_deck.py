@@ -48,5 +48,6 @@ class TestDeck(unittest.TestCase):
 
         new_deck = odd_deck.split()
 
+        # Odd deck receives more cards
         self.assertEqual(len(odd_deck), len(ranks) // 2 + 1)
         self.assertEqual(len(new_deck), len(ranks) // 2)
