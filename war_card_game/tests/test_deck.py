@@ -2,7 +2,7 @@ import unittest
 from wargame.deck import Deck
 from wargame.card import ranks, Card
 
-class TestDeck(unittest.TestCase):
+class Constructor(unittest.TestCase):
     def test_cards_in_default_deck(self):
         # Check that default deck has 4 cards of each rank
         deck = Deck()
@@ -27,6 +27,7 @@ class TestDeck(unittest.TestCase):
         with self.assertRaises(TypeError):
             Deck(42)
 
+class Split(unittest.TestCase):
     def test_splitted_in_half_decks(self):
         initial_deck = Deck()
         expected_size = len(initial_deck) // 2
@@ -52,6 +53,7 @@ class TestDeck(unittest.TestCase):
         self.assertEqual(len(odd_deck), len(ranks) // 2 + 1)
         self.assertEqual(len(new_deck), len(ranks) // 2)
 
+class Shuffle(unittest.TestCase):
     def test_if_default_deck_is_shuffled(self):
         self.assertFalse(Deck().shuffled)
 
@@ -62,7 +64,7 @@ class TestDeck(unittest.TestCase):
 
         self.assertTrue(deck.shuffled)
 
-class GetCardTestCase(unittest.TestCase):
+class GetCard(unittest.TestCase):
     def setUp(self):
         self.deck = Deck()
         self.card = self.deck.get_card()
@@ -72,3 +74,9 @@ class GetCardTestCase(unittest.TestCase):
 
     def test_card_value(self):
         self.assertEqual(self.card.rank, ranks[0])
+
+    def test_exception_if_empty(self):
+        while len(self.deck) > 0:
+            self.deck.get_card()
+        with self.assertRaises(IndexError):
+            self.deck.get_card()
