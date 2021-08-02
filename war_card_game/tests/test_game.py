@@ -18,7 +18,10 @@ class TestGame(unittest.TestCase):
 
         finished_game = False
 
-        while not finished_game:
+        while not finished_game and len(deck_one) != 0 and len(deck_two) != 0:
+            deck_one_card = deck_one.get_card()
+            deck_two_card = deck_two.get_card()
+
             finished_game = True
 
         # Finish
