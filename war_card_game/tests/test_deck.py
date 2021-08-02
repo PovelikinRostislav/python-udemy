@@ -51,3 +51,13 @@ class TestDeck(unittest.TestCase):
         # Odd deck receives more cards
         self.assertEqual(len(odd_deck), len(ranks) // 2 + 1)
         self.assertEqual(len(new_deck), len(ranks) // 2)
+
+    def test_if_default_deck_is_shuffled(self):
+        self.assertFalse(Deck().shuffled)
+
+    def test_shuffle_effect(self):
+        deck = Deck()
+
+        deck.shuffle()
+
+        self.assertTrue(deck.shuffled)

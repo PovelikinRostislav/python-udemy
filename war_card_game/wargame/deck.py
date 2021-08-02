@@ -3,6 +3,8 @@ from random import shuffle
 
 class Deck:
     def __init__(self, cards_list = None):
+        self.shuffled = False
+
         if cards_list is None:
             self.cards = []
             for rank in ranks:
@@ -21,6 +23,7 @@ class Deck:
 
     def shuffle(self):
         shuffle(self.cards)
+        self.shuffled = True
 
     def __repr__(self):
         return f"Deck of {len(self.cards)} cards"
