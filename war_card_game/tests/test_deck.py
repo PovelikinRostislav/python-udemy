@@ -80,3 +80,30 @@ class GetCard(unittest.TestCase):
             self.deck.get_card()
         with self.assertRaises(IndexError):
             self.deck.get_card()
+
+class AppendCard(unittest.TestCase):
+    def setUp(self):
+        self.deck = Deck()
+        self.zero = Card(ranks[0])
+        custom_rank = 42 % len(ranks)
+        self.non_zero = Card(ranks[custom_rank])
+
+    def test_deck_len_increased(self):
+        prev_len = len(self.deck)
+
+        self.deck.append_card(self.zero)
+        self.assertEqual(len(self.deck), prev_len + 1)
+
+    def test_card_value(self):
+        empty_deck = Deck()
+        while len(empty_deck) > 0:
+            empty_deck.get_card()
+
+        empty_deck.append_card(self.non_zero)
+
+        self.assertEqual(empty_deck.cards[0], self.non_zero)
+
+    def test_card_value_and_position(self):
+        self.deck.append_card(self.non_zero)
+
+        self.assertEqual(self.deck.cards[-1], self.non_zero)

@@ -32,7 +32,15 @@ class Deck:
         self.shuffled = True
 
     def get_card(self):
+        # Pull out the card from the top, which is 0 index
         if len(self.cards) > 0:
             return self.cards.pop(0)
         else:
             raise IndexError('getting card from empty deck')
+
+    def append_card(self, card):
+        # Put the card to the bottom, which is in the end of the list
+        if isinstance(card, Card):
+            self.cards.append(card)
+        else:
+            raise TypeError()
