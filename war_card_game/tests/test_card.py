@@ -23,3 +23,16 @@ class Constructor(unittest.TestCase):
     def test_card_ctor(self):
         for rank in ranks:
             self.assertEqual(Card(rank).value, values[rank])
+
+class Operators(unittest.TestCase):
+    def test_eq(self):
+        first_card = Card(ranks[0])
+        second_card = Card(ranks[0])
+
+        self.assertEqual(first_card, second_card)
+
+    def test_neq(self):
+        first_card = Card(ranks[0])
+        second_card = Card(ranks[1])
+
+        self.assertNotEqual(first_card, second_card)
