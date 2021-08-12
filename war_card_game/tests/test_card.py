@@ -25,14 +25,27 @@ class Constructor(unittest.TestCase):
             self.assertEqual(Card(rank).value, values[rank])
 
 class Operators(unittest.TestCase):
-    def test_eq(self):
-        first_card = Card(ranks[0])
-        second_card = Card(ranks[0])
+    def setUp(self):
+        self.zero = Card(ranks[0])
+        self.one = Card(ranks[1])
 
-        self.assertEqual(first_card, second_card)
+    def test_eq(self):
+        self.assertEqual(self.zero, self.zero)
 
     def test_neq(self):
-        first_card = Card(ranks[0])
-        second_card = Card(ranks[1])
+        self.assertNotEqual(self.zero, self.one)
 
-        self.assertNotEqual(first_card, second_card)
+    def test_lt(self):
+        self.assertLess(self.zero, self.one)
+
+    def test_le(self):
+        self.assertLessEqual(self.zero, self.one)
+        self.assertLessEqual(self.zero, self.zero)
+
+    def test_gt(self):
+        self.assertGreater(self.one, self.zero)
+
+    def test_gt(self):
+        self.assertGreaterEqual(self.one, self.zero)
+        self.assertGreaterEqual(self.zero, self.zero)
+
