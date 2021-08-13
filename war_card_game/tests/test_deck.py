@@ -107,3 +107,41 @@ class AppendCard(unittest.TestCase):
         self.deck.append_card(self.non_zero)
 
         self.assertEqual(self.deck.cards[-1], self.non_zero)
+
+class AppendCards(unittest.TestCase):
+    def setUp(self):
+        self.deck = Deck()
+        self.cards_to_append = [Card(rank) for rank in ranks[:5]]
+
+    def test_throws_when_not_iterable(self):
+        with self.assertRaises(TypeError):
+            Deck().append_cards(42)
+
+    def test_throws_when_not_card(self):
+        with self.assertRaises(TypeError):
+            Deck.append_cards([42])
+
+    def test_deck_len_increases(self):
+        previous_len = len(self.deck)
+        expected_increase = len(self.cards_to_append)
+
+        self.deck.append_cards(self.cards_to_append)
+
+        self.assertEqual(len(self.deck), previous_len + expected_increase)
+
+    def test_appended_values(self):
+        empty_deck = Deck()
+        while len(empty_deck) > 0:
+            empty_deck.get_card()
+
+        empty_deck.append_cards(self.cards_to_append)
+
+        for i, card in enumerate(self.cards_to_append):
+            self.assertEqual(empty_deck.cards[i], card)
+
+    def test_appended_values_and_positions(self):
+        initial_len = len(self.deck)
+        self.deck.append_cards(self.cards_to_append)
+
+        for i, card in enumerate(self.cards_to_append):
+            self.assertEqual(self.deck.cards[initial_len + i], card)

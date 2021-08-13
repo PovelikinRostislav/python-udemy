@@ -44,3 +44,7 @@ class Deck:
             self.cards.append(card)
         else:
             raise TypeError()
+
+    def append_cards(self, cards):
+        for card in cards:
+            self.append_card(card)
