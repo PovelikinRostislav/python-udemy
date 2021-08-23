@@ -13,7 +13,7 @@ class Deck:
         elif isinstance(cards_list, list):
             self.cards = cards_list
         else:
-            raise TypeError()
+            raise TypeError("Provide a list of cards to construct a custom deck")
 
     def __repr__(self):
         return f"Deck of {len(self.cards)} cards"
@@ -39,7 +39,7 @@ class Deck:
         if len(self.cards) > 0:
             return self.cards.pop(0)
         else:
-            raise IndexError('getting card from empty deck')
+            raise IndexError("getting card from empty deck")
 
     def append_card(self, card):
         # Put the card to the bottom, which is in the end of the list
