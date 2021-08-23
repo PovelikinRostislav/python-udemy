@@ -145,3 +145,18 @@ class AppendCards(unittest.TestCase):
 
         for i, card in enumerate(self.cards_to_append):
             self.assertEqual(self.deck.cards[initial_len + i], card)
+
+class IndexingSlicing(unittest.TestCase):
+    def setUp(self):
+        self.default_deck = Deck()
+
+    def test_indexing_start(self):
+        self.assertEqual(self.default_deck[0], Card(ranks[0]))
+
+    def test_indexing_end(self):
+        self.assertEqual(self.default_deck[-1], Card(ranks[-1]))
+
+    def test_slicing(self):
+        slice_obj = slice(3, 42, 3)
+
+        self.assertEqual(self.default_deck[slice_obj], self.default_deck.cards[slice_obj])

@@ -21,6 +21,9 @@ class Deck:
     def __len__(self):
         return len(self.cards)
 
+    def __getitem__(self, key):
+        return self.cards[key]
+
     def split(self):
         popped_cards = []
         for idx in range(len(self.cards) // 2):
