@@ -11,18 +11,21 @@ class Deck:
                 rank_suites = [Card(rank)] * 4
                 self.cards.extend(rank_suites)
         elif isinstance(cards_list, list):
-            self.cards = cards_list
+            self.cards = cards_list[:]
         else:
             raise TypeError("Provide a list of cards to construct a custom deck")
 
     def __repr__(self):
-        return f"Deck of {len(self.cards)} cards"
+        return self.cards.__repr__()
 
     def __len__(self):
         return len(self.cards)
 
     def __getitem__(self, key):
         return self.cards[key]
+
+    def __copy__(self):
+        return Deck(self.cards)
 
     def split(self):
         popped_cards = []

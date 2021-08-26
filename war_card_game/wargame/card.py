@@ -16,7 +16,7 @@ class Card:
             self.value = values[rank]
 
     def __repr__(self):
-        return f"Card of {self.rank} value"
+        return f"Card of {self.rank}"
 
     def __eq__(self, other):
         return self.value == other.value
