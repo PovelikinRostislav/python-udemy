@@ -9,6 +9,28 @@ def prepare_random_game_decks():
     deck_one.shuffle(), deck_two.shuffle()
     return deck_one, deck_two
 
+def keep_going_war(deck_one, deck_two, winner_cards):
+    if len(deck_two) < 3:
+        # Player one wins (even if players have 3 cards in deck, let's assume that 1st is winner)
+        deck_one.append_cards(winner_cards)
+        for _ in range(len(deck_two)):
+            deck_one.append_card(deck_two.get_card())
+        winner_cards.clear()
+        return False
+    elif len(deck_one) < 3:
+        # Player two wins
+        deck_two.append_cards(winner_cards)
+        for _ in range(len(deck_one)):
+            deck_two.append_card(deck_one.get_card())
+        winner_cards.clear()
+        return False
+    else:
+        # Keep going
+        for i in range(3):
+            winner_cards.append(deck_one.get_card())
+            winner_cards.append(deck_two.get_card())
+        return True
+
 def game_logic(deck_one, deck_two):
     winner_cards = []
     while len(deck_one) != 0 and len(deck_two) != 0:
@@ -24,28 +46,14 @@ def game_logic(deck_one, deck_two):
         elif deck_one_card > deck_two_card:
             deck_one.append_cards(winner_cards)
             winner_cards.clear()
+        elif keep_going_war(deck_one, deck_two, winner_cards):
+            pass
         else:
-            if len(deck_two) < 3:
-                # Player one wins (even if players have 3 cards in deck, let's assume that 1st is winner)
-                deck_one.append_cards(winner_cards)
-                for _ in range(len(deck_two)):
-                    deck_one.append_card(deck_two.get_card())
-                winner_cards.clear()
-                break
-            elif len(deck_one) < 3:
-                # Player two wins
-                deck_two.append_cards(winner_cards)
-                for _ in range(len(deck_one)):
-                    deck_two.append_card(deck_one.get_card())
-                winner_cards.clear()
-                break
-            else:
-                # Keep going
-                for i in range(3):
-                    winner_cards.append(deck_one.get_card())
-                    winner_cards.append(deck_two.get_card())
+            break
 
     if len(deck_one) != 0 and len(deck_two) != 0:
+        raise Error("Wrong game logic")
+    elif len(winner_cards) != 0:
         raise Error("Wrong game logic")
     elif len(deck_one) != 0 and len(deck_two) == 0:
         winner = (True, False)
