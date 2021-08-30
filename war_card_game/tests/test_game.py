@@ -9,6 +9,16 @@ def prepare_random_game_decks():
     deck_one.shuffle(), deck_two.shuffle()
     return deck_one, deck_two
 
+def check_result(deck_one, deck_two, winner_cards):
+    if len(deck_one) != 0 and len(deck_two) != 0:
+        raise Exception("Wrong game logic")
+    elif len(winner_cards) != 0:
+        raise Exception("Wrong game logic")
+    elif len(deck_one) != 0 and len(deck_two) == 0:
+        return (True, False)
+    else:
+        return (False, True)
+
 def game_logic(deck_one, deck_two):
     winner_cards = []
 
@@ -45,14 +55,7 @@ def game_logic(deck_one, deck_two):
                 winner_cards.append(deck_one.get_card())
                 winner_cards.append(deck_two.get_card())
 
-    if len(deck_one) != 0 and len(deck_two) != 0:
-        raise Exception("Wrong game logic")
-    elif len(winner_cards) != 0:
-        raise Exception("Wrong game logic")
-    elif len(deck_one) != 0 and len(deck_two) == 0:
-        winner = (True, False)
-    else:
-        winner = (False, True)
+    winner = check_result(deck_one, deck_two, winner_cards)
 
     return winner
 
