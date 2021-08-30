@@ -25,12 +25,25 @@ def game_logic(deck_one, deck_two):
             deck_one.append_cards(winner_cards)
             winner_cards.clear()
         else:
-            try:
+            if len(deck_two) < 3:
+                # Player one wins (even if players have 3 cards in deck, let's assume that 1st is winner)
+                deck_one.append_cards(winner_cards)
+                for _ in range(len(deck_two)):
+                    deck_one.append_card(deck_two.get_card())
+                winner_cards.clear()
+                break
+            elif len(deck_one) < 3:
+                # Player two wins
+                deck_two.append_cards(winner_cards)
+                for _ in range(len(deck_one)):
+                    deck_two.append_card(deck_one.get_card())
+                winner_cards.clear()
+                break
+            else:
+                # Keep going
                 for i in range(3):
                     winner_cards.append(deck_one.get_card())
                     winner_cards.append(deck_two.get_card())
-            except IndexError:
-                break
 
     if len(deck_one) != 0 and len(deck_two) != 0:
         raise Error("Wrong game logic")
@@ -73,7 +86,7 @@ class OneCardGame(unittest.TestCase):
     def test_equal_decks(self):
         result = game_logic(self.winner_deck, Deck([self.winner_card]))
 
-        self.assertEqual(result, (False, True))
+        self.assertEqual(result, (True, False))
 
 class TwoCardGame(unittest.TestCase):
     def setUp(self):
@@ -108,4 +121,4 @@ class TwoCardGame(unittest.TestCase):
     def test_equal_decks(self):
         result = game_logic(self.winner_deck, copy(self.winner_deck))
 
-        self.assertEqual(result, (False, True))
+        self.assertEqual(result, (True, False))
