@@ -9,30 +9,9 @@ def prepare_random_game_decks():
     deck_one.shuffle(), deck_two.shuffle()
     return deck_one, deck_two
 
-def keep_going_war(deck_one, deck_two, winner_cards):
-    if len(deck_two) < 3:
-        # Player one wins (even if players have 3 cards in deck, let's assume that 1st is winner)
-        deck_one.append_cards(winner_cards)
-        for _ in range(len(deck_two)):
-            deck_one.append_card(deck_two.get_card())
-        winner_cards.clear()
-        return False
-    elif len(deck_one) < 3:
-        # Player two wins
-        deck_two.append_cards(winner_cards)
-        for _ in range(len(deck_one)):
-            deck_two.append_card(deck_one.get_card())
-        winner_cards.clear()
-        return False
-    else:
-        # Keep going
-        for i in range(3):
-            winner_cards.append(deck_one.get_card())
-            winner_cards.append(deck_two.get_card())
-        return True
-
 def game_logic(deck_one, deck_two):
     winner_cards = []
+
     while len(deck_one) != 0 and len(deck_two) != 0:
         deck_one_card = deck_one.get_card()
         deck_two_card = deck_two.get_card()
@@ -41,20 +20,30 @@ def game_logic(deck_one, deck_two):
         winner_cards.append(deck_two_card)
 
         if deck_one_card < deck_two_card:
+            # This take goes to Player 2. Keep playing
             deck_two.append_cards(winner_cards)
             winner_cards.clear()
         elif deck_one_card > deck_two_card:
+            # This take goes to Player 1. Keep playing
             deck_one.append_cards(winner_cards)
             winner_cards.clear()
-        elif keep_going_war(deck_one, deck_two, winner_cards):
-            if len(deck_one) == 0:
-                deck_two.append_cards(winner_cards)
-                winner_cards.clear()
-            if len(deck_two) == 0:
-                deck_one.append_cards(winner_cards)
-                winner_cards.clear()
+        elif len(deck_one) <= 3:
+            # Player 1 has no cards for war continuation, he loses the game
+            for _ in range(len(deck_one)):
+                deck_two.append_card(deck_one.get_card())
+            deck_two.append_cards(winner_cards)
+            winner_cards.clear()
+        elif len(deck_two) <= 3:
+            # Player 2 has no cards for war continuation, he loses the game
+            for _ in range(len(deck_two)):
+                deck_one.append_card(deck_two.get_card())
+            deck_one.append_cards(winner_cards)
+            winner_cards.clear()
         else:
-            break
+            # Players have cards for War state. Keep playing
+            for i in range(3):
+                winner_cards.append(deck_one.get_card())
+                winner_cards.append(deck_two.get_card())
 
     if len(deck_one) != 0 and len(deck_two) != 0:
         raise Exception("Wrong game logic")
@@ -99,7 +88,7 @@ class OneCardGame(unittest.TestCase):
     def test_equal_decks(self):
         result = game_logic(self.winner_deck, Deck([self.winner_card]))
 
-        self.assertEqual(result, (True, False))
+        self.assertEqual(result, (False, True))
 
 class TwoCardGame(unittest.TestCase):
     def setUp(self):
@@ -134,7 +123,7 @@ class TwoCardGame(unittest.TestCase):
     def test_equal_decks(self):
         result = game_logic(self.winner_deck, copy(self.winner_deck))
 
-        self.assertEqual(result, (True, False))
+        self.assertEqual(result, (False, True))
 
 class RandomDecksGame(unittest.TestCase):
     def test_decks_len(self):
