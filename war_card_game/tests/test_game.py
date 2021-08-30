@@ -47,14 +47,19 @@ def game_logic(deck_one, deck_two):
             deck_one.append_cards(winner_cards)
             winner_cards.clear()
         elif keep_going_war(deck_one, deck_two, winner_cards):
-            pass
+            if len(deck_one) == 0:
+                deck_two.append_cards(winner_cards)
+                winner_cards.clear()
+            if len(deck_two) == 0:
+                deck_one.append_cards(winner_cards)
+                winner_cards.clear()
         else:
             break
 
     if len(deck_one) != 0 and len(deck_two) != 0:
-        raise Error("Wrong game logic")
+        raise Exception("Wrong game logic")
     elif len(winner_cards) != 0:
-        raise Error("Wrong game logic")
+        raise Exception("Wrong game logic")
     elif len(deck_one) != 0 and len(deck_two) == 0:
         winner = (True, False)
     else:
@@ -130,3 +135,35 @@ class TwoCardGame(unittest.TestCase):
         result = game_logic(self.winner_deck, copy(self.winner_deck))
 
         self.assertEqual(result, (True, False))
+
+class RandomDecksGame(unittest.TestCase):
+    def test_decks_len(self):
+        for _ in range(42):
+            deck_one, deck_two = prepare_random_game_decks()
+            result = game_logic(deck_one, deck_two)
+
+            if result[0]:
+                self.assertEqual(len(deck_one), 52)
+                self.assertEqual(len(deck_two), 0)
+            else:
+                self.assertEqual(len(deck_one), 0)
+                self.assertEqual(len(deck_two), 52)
+
+    def test_winner_deck_content(self):
+        for _ in range(42):
+            ranks_dict = {rank:4 for rank in ranks}
+
+            deck_one, deck_two = prepare_random_game_decks()
+            result = game_logic(deck_one, deck_two)
+
+            if result[0]:
+                for card in deck_one:
+                    ranks_dict[card.rank] -= 1
+
+                self.assertFalse(any(ranks_dict.values()))
+            else:
+                for card in deck_two:
+                    ranks_dict[card.rank] -= 1
+
+                self.assertFalse(any(ranks_dict.values()))
+
