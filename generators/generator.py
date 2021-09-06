@@ -43,6 +43,15 @@ def main():
     print("Generator will issue one value at a time and consumer will be able to retrieve elements from it one-by-one")
     print("But important to notice that generator is one-way iterable. It has no rewind-like method")
 
+    print("*******")
+    print("Advanced and interesting part. There is no tuple-comprehensions in Python. Parenthesis usage is a generator comprehension!")
+    my_list = [1,2,3,4,5]
+    new_list = (elem for elem in my_list if elem > 3)
+    print(f"Here it is, new generator:\n\t{new_list}")
+    print(f"And the elements it's producing")
+    for elem in new_list:
+        print(f"\t\t{elem}")
+
 
 if __name__ == "__main__":
     main()
