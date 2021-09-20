@@ -4,8 +4,9 @@ from os.path import exists
 
 url = "https://en.wikipedia.org/wiki/Shahar_Marcus"
 response_filename = "response_content.txt"
+section_delimiter = ">==========<"
 
-def main():
+def get_content():
     if not exists(response_filename):
         print(f"Sending a request to get the page: {url}")
         response = requests.get(url)
@@ -17,10 +18,11 @@ def main():
         with open(response_filename, mode="r") as file:
             response_content = file.readlines()
             response_content = "\n".join(response_content)
-
     print(f"Response content type: {type(response_content)}")
+    print(section_delimiter)
+    return response_content
 
-    soup = bs4.BeautifulSoup(response_content, "lxml")
+def grab_title_and_paragraphs(soup):
     title_tag = soup.select("title")
     print(f"Title tag of {type(title_tag)} type: {title_tag}")
 
@@ -30,6 +32,24 @@ def main():
     for p_tag in paragraph_tags:
         p = p_tag.get_text().strip(' \n')
         print(f"\t'{p}'")
+    print(section_delimiter)
+    return title_tag, paragraph_tags
+
+def grab_table_of_content_bullets(soup):
+    bullets = soup.select(".toctext")
+
+    for b in bullets:
+        print(f"\t'{b.get_text()}'")
+
+    print(section_delimiter)
+    return
+
+
+def main():
+    response_content = get_content()
+    soup = bs4.BeautifulSoup(response_content, "lxml")
+    grab_title_and_paragraphs(soup)
+    grab_table_of_content_bullets(soup)
 
 
 
