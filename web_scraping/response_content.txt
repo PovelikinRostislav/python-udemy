@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Shahar Marcus - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"efeadd49-d348-44bd-950c-73e48574a021","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Shahar_Marcus","wgTitle":"Shahar Marcus","wgCurRevisionId":1016943884,"wgRevisionId":1016943884,"wgArticleId":33232620,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Use dmy dates from April 2018","Orphaned articles from November 2016","All orphaned articles","BLP articles lacking sources from November 2016","All BLP articles lacking sources","Articles with hCards",
+"Articles with GND identifiers","Articles with VIAF identifiers","Articles with NLI identifiers","Articles with ICIA identifiers","Articles with WORLDCATID identifiers","Israeli performance artists","Israeli artists","Living people","1971 births"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Shahar_Marcus","wgRelevantArticleId":33232620,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage",
+"wgULSisCompactLinksEnabled":!0,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!1,"wgGELinkRecommendationsFrontendEnabled":!1,"wgCentralAuthMobileDomain":!1,"wgWikibaseItemId":"Q7461455"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","mediawiki.page.gallery.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","mmv.head","mmv.bootstrap.autostart","ext.popups",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.page.gallery.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.37.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4f/Shahar_Marcus.jpg"/>
+<meta property="og:title" content="Shahar Marcus - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Shahar_Marcus"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Shahar_Marcus&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Shahar_Marcus&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Shahar_Marcus"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Shahar_Marcus rootpage-Shahar_Marcus skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >Shahar Marcus</h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Israeli artist (born 1971)</div>
+<p class="mw-empty-elt">
+</p>
+<table class="box-Orphan plainlinks metadata ambox ambox-style ambox-Orphan" role="presentation" style="display: none"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Wiki_letter_w.svg" class="image"><img alt="Wiki letter w.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/40px-Wiki_letter_w.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/60px-Wiki_letter_w.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/80px-Wiki_letter_w.svg.png 2x" data-file-width="44" data-file-height="44" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>is an <a href="/wiki/Wikipedia:Orphan" title="Wikipedia:Orphan">orphan</a>, as no other articles <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:Whatlinkshere&amp;target=Shahar_Marcus&amp;namespace=0">link to it</a></b>. Please <a href="/wiki/Help:Link" title="Help:Link">introduce links</a> to this page from <span class="plainlinks"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;redirs=1&amp;search=Shahar+Marcus&amp;fulltext=Search&amp;ns0=1&amp;title=Special%3ASearch&amp;advanced=1&amp;fulltext=Shahar+Marcus">related articles</a></span>; try the <a rel="nofollow" class="external text" href="//edwardbetts.com/find_link?q=Shahar_Marcus">Find link tool</a> for suggestions.  <span class="date-container"><i>(<span class="date">November 2016</span>)</i></span></div></td></tr></tbody></table>
+<table class="box-BLP_sources plainlinks metadata ambox ambox-content ambox-BLP_sources" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span">This <a href="/wiki/Wikipedia:Biographies_of_living_persons" title="Wikipedia:Biographies of living persons">biography of a living person</a> <b>needs additional <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citations</a> for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help by adding <a href="/wiki/Wikipedia:Reliable_sources" title="Wikipedia:Reliable sources">reliable sources</a>. Contentious material about living persons that is unsourced or poorly sourced <b>must be removed immediately</b>, especially if potentially <a href="/wiki/Wikipedia:Libel" title="Wikipedia:Libel">libelous</a> or harmful.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Shahar+Marcus%22">"Shahar Marcus"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Shahar+Marcus%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Shahar+Marcus%22&amp;tbs=bkt:s&amp;tbm=bks">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Shahar+Marcus%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Shahar+Marcus%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Shahar+Marcus%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <span class="date-container"><i>(<span class="date">November 2016</span>)</i></span><span class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></span></div></td></tr></tbody></table>
+<table class="infobox biography vcard"><tbody><tr><th colspan="2" class="infobox-above" style="font-size:125%;"><div class="fn" style="display:inline">Shahar Marcus</div></th></tr><tr><td colspan="2" class="infobox-image"><a href="/wiki/File:Shahar_Marcus.jpg" class="image"><img alt="Shahar Marcus.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Shahar_Marcus.jpg/220px-Shahar_Marcus.jpg" decoding="async" width="220" height="308" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Shahar_Marcus.jpg/330px-Shahar_Marcus.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Shahar_Marcus.jpg/440px-Shahar_Marcus.jpg 2x" data-file-width="900" data-file-height="1260" /></a></td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data">1971<br /><div style="display:inline" class="birthplace"><a href="/wiki/Petach_Tikva" class="mw-redirect" title="Petach Tikva">Petach Tikva</a>, Israel</div></td></tr><tr><th scope="row" class="infobox-label">Nationality</th><td class="infobox-data category">Israeli, <a href="/wiki/Jewish" class="mw-redirect" title="Jewish">Jewish</a></td></tr><tr><th scope="row" class="infobox-label">Education</th><td class="infobox-data"><a href="/wiki/Tel_Aviv_University" title="Tel Aviv University">Tel Aviv University</a></td></tr><tr><th scope="row" class="infobox-label">Known&#160;for</th><td class="infobox-data"><a href="/wiki/Video_art" title="Video art">Video art</a>, <a href="/wiki/Performance_art" title="Performance art">performance</a> and <a href="/w/index.php?title=Installations_art&amp;action=edit&amp;redlink=1" class="new" title="Installations art (page does not exist)">installations</a></td></tr></tbody></table>
+<p><b>Shahar Marcus</b> (born 1971) is an <a href="/wiki/Israelis" title="Israelis">Israeli</a> artist who works primarily in <a href="/wiki/Video_art" title="Video art">video</a>, <a href="/wiki/Performance_art" title="Performance art">performance</a> and <a href="/w/index.php?title=Installations_art&amp;action=edit&amp;redlink=1" class="new" title="Installations art (page does not exist)">installations</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Education"><span class="tocnumber">2</span> <span class="toctext">Education</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Awards_and_residencies"><span class="tocnumber">3</span> <span class="toctext">Awards and residencies</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Solo_exhibitions"><span class="tocnumber">4</span> <span class="toctext">Solo exhibitions</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Group_exhibitions"><span class="tocnumber">5</span> <span class="toctext">Group exhibitions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#2016"><span class="tocnumber">5.1</span> <span class="toctext">2016</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#2015"><span class="tocnumber">5.2</span> <span class="toctext">2015</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#2014"><span class="tocnumber">5.3</span> <span class="toctext">2014</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#2013"><span class="tocnumber">5.4</span> <span class="toctext">2013</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#2012"><span class="tocnumber">5.5</span> <span class="toctext">2012</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#2011"><span class="tocnumber">5.6</span> <span class="toctext">2011</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#2010"><span class="tocnumber">5.7</span> <span class="toctext">2010</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#2009"><span class="tocnumber">5.8</span> <span class="toctext">2009</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#2008"><span class="tocnumber">5.9</span> <span class="toctext">2008</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#2007"><span class="tocnumber">5.10</span> <span class="toctext">2007</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#2006"><span class="tocnumber">5.11</span> <span class="toctext">2006</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#2005"><span class="tocnumber">5.12</span> <span class="toctext">2005</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#2003"><span class="tocnumber">5.13</span> <span class="toctext">2003</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Gallery"><span class="tocnumber">6</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#Articles"><span class="tocnumber">7</span> <span class="toctext">Articles</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shahar_Marcus&amp;action=edit&amp;section=1" title="Edit section: Biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Shahar Marcus was born in 1971 at <a href="/wiki/Petach_Tikva" class="mw-redirect" title="Petach Tikva">Petach Tikva</a>. His mother was a teacher and father a Diamond dealer. His first child was born during 2011 and in 2014 his youngest daughter joined the family. They currently reside in Tel Aviv, Israel.
+</p><p>In his early works Marcus dealt with the exploration of his own body and its limitations; his body serving as an instrument or rather a platform for the conducting of experiments with various perishable materials, such as dough, juice, ice and fire. While his early video-performances feature himself along with other artists, with whom he had collaborated in the past, in his recent works, Marcus appears by himself, while embodying different roles and characters.
+</p><p>His most recent works he deal with local political issues, by approaching iconic Israeli landmarks with a critical and humorous point of view (like "1,2,3,Herring"). Thus, Marcus reflects on his own heritage, environment and the creation of local historical narratives. He aspires to tackle a local issue, and convey it through universal visual means ("The Curator", "King of Falafel", "Homecoming Artist and Leap of Faith").
+</p><p>As of 2012, Marcus has been collaborating with the Turkish-German performance artist <a href="/w/index.php?title=Nezaket_Ekici&amp;action=edit&amp;redlink=1" class="new" title="Nezaket Ekici (page does not exist)">Nezaket Ekici</a>. The both of them have been employing their own bodies as a medium to build up forces and energies, to resolve tensions and conflicts. By pushing their own physical limits, they cause their works to revolve in no small measure around the limits of cultural and political difference. (Methexis, Sand Clock, Salt Dinner).
+</p>
+<h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shahar_Marcus&amp;action=edit&amp;section=2" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>1993‐1997 BA Linguistics, <a href="/wiki/University_of_Tel_Aviv" class="mw-redirect" title="University of Tel Aviv">University of Tel Aviv</a></li>
+<li>1999‐2004 MA History of Art, <a href="/wiki/University_of_Tel_Aviv" class="mw-redirect" title="University of Tel Aviv">University of Tel Aviv</a></li></ul>
+<h2><span class="mw-headline" id="Awards_and_residencies">Awards and residencies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shahar_Marcus&amp;action=edit&amp;section=3" title="Edit section: Awards and residencies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>2015 The Discovery award, Loop art fair and festival,Barcelona,Spain.</li>
+<li>2013	The Israeli Ministry of Culture award for Encouraging Creativity.</li>
+<li>2013	Special mention for "seeds" at the 20 min\max film festival, Ingolstadt, Germany.</li>
+<li>2012	Winner of the "press" award, <a href="/w/index.php?title=Arte_Laguna_prize&amp;action=edit&amp;redlink=1" class="new" title="Arte Laguna prize (page does not exist)">Laguna art prize</a>, Venice,Italy</li>
+<li>2011	Winner of the <a href="/w/index.php?title=Celeste_prize&amp;action=edit&amp;redlink=1" class="new" title="Celeste prize (page does not exist)">celeste prize</a>-video award</li>
+<li>2011	ArtMuse video festival, first place for "Freeze", Bocholt, Germany</li>
+<li>2010	Art OMI, New York City</li>
+<li>2009 	Special mention for "frog test" video art. The <a href="/w/index.php?title=Jerusalem_Film_festival&amp;action=edit&amp;redlink=1" class="new" title="Jerusalem Film festival (page does not exist)">Jerusalem International Film festival</a>, Israel.
+<ul><li><a href="/wiki/Jerusalem_Film_Festival" title="Jerusalem Film Festival">Jerusalem Film Festival</a>, Experimental Cinema Award</li>
+<li>Naoussa Film Festival People's Choice Award</li></ul></li>
+<li>2008	Beatrice Kolliner award for young artist, <a href="/wiki/Israel_Museum" title="Israel Museum">Israel Museum of Art</a></li>
+<li>2006	Young Artist Award, Ministry of Education And Culture</li></ul>
+<h2><span class="mw-headline" id="Solo_exhibitions">Solo exhibitions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shahar_Marcus&amp;action=edit&amp;section=4" title="Edit section: Solo exhibitions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>2016 Artificial Islands, with Nezaket Ekici, <a href="/wiki/Galeria_Labirynt" class="mw-redirect" title="Galeria Labirynt">Galeria Labirynt</a>, <a href="/wiki/Lublin" title="Lublin">Lublin</a>, Poland</li>
+<li>2015 Going, Going Gone, <a href="/w/index.php?title=Haifa_museum_of_art&amp;action=edit&amp;redlink=1" class="new" title="Haifa museum of art (page does not exist)">Haifa museum of art</a>, <a href="/wiki/Haifa" title="Haifa">Haifa</a>, Israel.</li>
+<li>2015 Solid and soft, with Nezaket Ekici, DNA gallery, <a href="/wiki/Berlin" title="Berlin">Berlin</a>, Germany.</li>
+<li>2015 "Fossils", with Nezaket Ekici, <a href="/w/index.php?title=Petach_Tkiva_Museum_of_Art&amp;action=edit&amp;redlink=1" class="new" title="Petach Tkiva Museum of Art (page does not exist)">Petach Tkiva Museum of Art</a>, <a href="/wiki/Petah_Tikva" title="Petah Tikva">Petach Tikva</a>, Israel</li>
+<li>2014 "In Relation" with Nezaket Ekici, <a href="/w/index.php?title=Stadtgalerie_Saarbrucken&amp;action=edit&amp;redlink=1" class="new" title="Stadtgalerie Saarbrucken (page does not exist)">Saarbruken Stadt Galerie</a>, Saarbrucken, Germany</li>
+<li>2014 "All is Gold", The Municipal Gallery, <a href="/wiki/Rehovot" title="Rehovot">Rehovot</a>, Israel</li>
+<li>2013 "In Relation" with Nezaket Ekici, Siemens Sanat, <a href="/wiki/Istanbul" title="Istanbul">Istanbul</a>. Turkey</li>
+<li>2013 "In Relation" with Nezaket Ekici, Artisterium VI, <a href="/wiki/Tbilisi" title="Tbilisi">Tbilisi</a>, Georgia</li>
+<li>2013 solo project at Threshold Gallery in "India art fair", New Delhi, India</li>
+<li>2012 "In Relation" with Nezaket Ekici at Braverman Gallery, <a href="/wiki/Tel_Aviv" title="Tel Aviv">Tel Aviv</a></li>
+<li>2012 1,2,3 Herring, <a href="/w/index.php?title=Hiroshima_city_museum_of_contemporary_art&amp;action=edit&amp;redlink=1" class="new" title="Hiroshima city museum of contemporary art (page does not exist)">MoCA</a> Hiroshima, <a href="/wiki/Hiroshima" title="Hiroshima">Hiroshima</a>, Japan</li>
+<li>2011 The Curator, The <a href="/wiki/Petach_Tikva_Museum_of_Art" class="mw-redirect" title="Petach Tikva Museum of Art">Petach Tikva Museum of Art</a>, Israel</li>
+<li>2011 The Memorial employee", Dana art Gallery, <a href="/wiki/Yad_Mordechai" title="Yad Mordechai">Kibbutz Yad Mordechai</a>, Israel</li>
+<li>2010 Bread &amp; Bunker, <a href="/w/index.php?title=Mediations_Biennale&amp;action=edit&amp;redlink=1" class="new" title="Mediations Biennale (page does not exist)">Mediations Biennale</a>, <a href="/wiki/Poznan" class="mw-redirect" title="Poznan">Poznan</a>, Poland</li>
+<li>2009 Bunkerbrot, MARS Gallery, <a href="/w/index.php?title=Moscow_biennale&amp;action=edit&amp;redlink=1" class="new" title="Moscow biennale (page does not exist)">Moscow biennale</a>, Moscow, Russia</li>
+<li>2008 Bread &amp; Bunker, G.D.K Gallery, <a href="/wiki/Berlin" title="Berlin">Berlin</a></li>
+<li>2007 Salt &amp; Ever, The Heder Gallery, <a href="/wiki/Tel_Aviv" title="Tel Aviv">Tel Aviv</a></li>
+<li>2005 Precise, Blurrr International Biennale, Kalisher, <a href="/wiki/Tel_Aviv" title="Tel Aviv">Tel Aviv</a>
+<ul><li>To Be An Apprentice, <a href="/wiki/Avni_Institute_of_Art_and_Design" title="Avni Institute of Art and Design">Avni Institute of Art and Design</a>, <a href="/wiki/Jaffa" title="Jaffa">Jaffa</a></li></ul></li>
+<li>2004 The Agency, Hakibbutz gallery, <a href="/wiki/Tel_Aviv" title="Tel Aviv">Tel Aviv</a></li></ul>
+<h2><span class="mw-headline" id="Group_exhibitions">Group exhibitions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shahar_Marcus&amp;action=edit&amp;section=5" title="Edit section: Group exhibitions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="2016">2016</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shahar_Marcus&amp;action=edit&amp;section=6" title="Edit section: 2016">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Exhibition of works from the <a href="/w/index.php?title=Museum_of_contemporary_art_in_krakow&amp;action=edit&amp;redlink=1" class="new" title="Museum of contemporary art in krakow (page does not exist)">MOCAK</a> at the <a href="/wiki/MAXXI" title="MAXXI">MAXXI</a>, Rome, Italy</li>
+<li>The 9th Tbilisi Annual International Contemporary Art exhibition, Tbilisi History Museum, <a href="/wiki/Tbilisi" title="Tbilisi">Tbilisi</a>, Georgia</li>
+<li>VideoMedeja Festival, <a href="/wiki/Novi_Sad" title="Novi Sad">Novi Sad</a>, Serbia</li>
+<li>5th Radial Festival, I.D. Festival Berlin, <a href="/wiki/Berlin" title="Berlin">Berlin</a>, Germany</li>
+<li>The Sea, <a href="/wiki/Museum_of_Contemporary_Art_in_Krakow" class="mw-redirect" title="Museum of Contemporary Art in Krakow">Museum of Contemporary Art in Krakow</a>, <a href="/wiki/Krakow" class="mw-redirect" title="Krakow">Krakow</a>, Poland</li>
+<li>Urban Touch, Kunsthalle Faust, <a href="/wiki/Hannover" class="mw-redirect" title="Hannover">Hannover</a></li>
+<li>Fundamental- the 5th Mediations Biennale, <a href="/w/index.php?title=National_Museum_poznan&amp;action=edit&amp;redlink=1" class="new" title="National Museum poznan (page does not exist)">National Museum</a>, <a href="/wiki/Poznan" class="mw-redirect" title="Poznan">Poznan</a>, Poland</li>
+<li>The Pleasure of Love, The 56th October Salon, Belgrade Culture Center, <a href="/wiki/Belgrade" title="Belgrade">Belgrade</a>, Serbia</li>
+<li>Extremely Loud and Incredibly Close, <a href="/wiki/Haifa_Museum_of_Art" title="Haifa Museum of Art">Haifa Museum of Art</a>, <a href="/wiki/Haifa" title="Haifa">Haifa</a></li>
+<li>Subspace, International Photography Festival, <a href="/wiki/Tel-Aviv" class="mw-redirect" title="Tel-Aviv">Tel-Aviv</a></li>
+<li>Universum, International Photography Festival, <a href="/wiki/Tel-Aviv" class="mw-redirect" title="Tel-Aviv">Tel-Aviv</a></li>
+<li>Medicine in Art, <a href="/w/index.php?title=Museum_of_contemporary_art_in_krakow&amp;action=edit&amp;redlink=1" class="new" title="Museum of contemporary art in krakow (page does not exist)">Museum of Contemporary Art</a>, <a href="/wiki/Krakow" class="mw-redirect" title="Krakow">Krakow</a>, Poland</li>
+<li>Things to Come, <a href="/wiki/Petach_Tikva_Museum_of_Art" class="mw-redirect" title="Petach Tikva Museum of Art">Petach Tikva Museum of Art</a>, <a href="/wiki/Petah_Tikva" title="Petah Tikva">Petach Tikva</a></li>
+<li>Berlin Case, APT Art Gallery, <a href="/wiki/Yekaterinburg" title="Yekaterinburg">Yekaterinburg</a>, Russia</li>
+<li>ARTVIDEOKOELN International Torrence Museum of Art, Los Angeles, United States</li></ul>
+<h3><span class="mw-headline" id="2015">2015</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shahar_Marcus&amp;action=edit&amp;section=7" title="Edit section: 2015">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Shoot: about performance, DNA gallery, <a href="/wiki/Berlin" title="Berlin">Berlin</a>, Germany.</li>
+<li>Recurrence, Nimac. <a href="/wiki/Nicosia" title="Nicosia">Nicosia</a>, Cyprus.</li>
+<li>Re:Start – Braverman Gallery, <a href="/wiki/Tel_Aviv" title="Tel Aviv">Tel Aviv</a></li>
+<li>Changing Perspectives – <a href="/wiki/Haifa_Museum_of_Art" title="Haifa Museum of Art">Haifa Museum of Art</a>, <a href="/wiki/Haifa" title="Haifa">Haifa</a></li>
+<li>DNA Berlin Solid and Soft</li>
+<li>Hospitalshof Stuttgart, Stuttgart Ich und Du</li></ul>
+<h3><span class="mw-headline" id="2014">2014</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shahar_Marcus&amp;action=edit&amp;section=8" title="Edit section: 2014">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Ekpharsis, <a href="/wiki/Hermitage_museum" class="mw-redirect" title="Hermitage museum">Hermitage</a>, <a href="/wiki/Saint-Petersburg" class="mw-redirect" title="Saint-Petersburg">Saint-Petersburg</a>, Russia</li>
+<li>In creation, <a href="/w/index.php?title=Moca_Taipei&amp;action=edit&amp;redlink=1" class="new" title="Moca Taipei (page does not exist)">Museum of Contemporary Art (MoCA)</a>, <a href="/wiki/Taipei" title="Taipei">Taipei</a>, Taiwan</li>
+<li>The Winners, <a href="/wiki/Haifa_Museum_of_Art" title="Haifa Museum of Art">Haifa Museum of Art</a>, Israel</li>
+<li>Les Rencontres Internationales,Haus der Kulturen der Welt, <a href="/wiki/Berlin" title="Berlin">Berlin</a>, Germany</li>
+<li>Beyond, Galerie Maubert, Paris, France</li>
+<li>Les Rencontres Internationales, <a href="/wiki/Palais_de_Tokyo" title="Palais de Tokyo">Gaîté Lyrique (Palais de Tokyo)</a>, Paris, France</li></ul>
+<h3><span class="mw-headline" id="2013">2013</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shahar_Marcus&amp;action=edit&amp;section=9" title="Edit section: 2013">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>WPA's Experimental Media 2013, <a href="/wiki/The_Phillips_Collection" title="The Phillips Collection">The Phillips Collection</a>, Washington D.C., United States.</li>
+<li>Faust Kunsthalle,"Schwerelos", <a href="/wiki/Hannover" class="mw-redirect" title="Hannover">Hannover</a>, Germany.</li>
+<li>"The Compromised Land" <a href="/wiki/Neuberger_Museum_of_Art" title="Neuberger Museum of Art">Neuberger Museum of Art New York</a>, <a href="/wiki/New_York_(state)" title="New York (state)">New York</a>, United States.</li>
+<li>Panorama <a href="/wiki/Weserburg" title="Weserburg">Weserburg Museum of Modern Art</a>, <a href="/wiki/Bremen" title="Bremen">Bremen</a>, Germany</li>
+<li>The Wro Biennale, <a href="/wiki/Wroclaw" class="mw-redirect" title="Wroclaw">Wroclaw</a>, Poland</li>
+<li>Kino der Kunst, <a href="/wiki/Munich" title="Munich">Munich</a>, Germany</li>
+<li>SAU Affero gallery, NJ, "Awards Images Moving and Art "Global</li></ul>
+<h3><span class="mw-headline" id="2012">2012</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shahar_Marcus&amp;action=edit&amp;section=10" title="Edit section: 2012">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>The <a href="/w/index.php?title=Mediations_Biennale&amp;action=edit&amp;redlink=1" class="new" title="Mediations Biennale (page does not exist)">Mediations Biennale</a>, <a href="/wiki/Poznan" class="mw-redirect" title="Poznan">Poznan</a>, Poland</li>
+<li>The 2nd Ural Industrial Biennale of Contemporary Art, <a href="/wiki/Yekaterinburg" title="Yekaterinburg">Yekaterinburg</a>, Russia</li>
+<li>Catastrophes and Incidences, DNA gallery, <a href="/wiki/Berlin" title="Berlin">Berlin</a>, Germany</li>
+<li>Afterwards, <a href="/w/index.php?title=Total_museum_of_contemporary_art&amp;action=edit&amp;redlink=1" class="new" title="Total museum of contemporary art (page does not exist)">Total Museum</a>, <a href="/wiki/Seoul" title="Seoul">Seoul</a>, Korea</li>
+<li><a href="/w/index.php?title=Arte_Laguna_prize&amp;action=edit&amp;redlink=1" class="new" title="Arte Laguna prize (page does not exist)">Laguna art prize</a>, Arsenale, <a href="/wiki/Venice" title="Venice">Venice</a>, Italy</li>
+<li>Middle East Europe, Dox Gallery, <a href="/wiki/Prague" title="Prague">Prague</a>, Czech Republic</li></ul>
+<h3><span class="mw-headline" id="2011">2011</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shahar_Marcus&amp;action=edit&amp;section=11" title="Edit section: 2011">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Art is Art is Art, <a href="/wiki/Moscow_Museum_of_Modern_Art" title="Moscow Museum of Modern Art">Moscow Museum of Modern Art</a>, Moscow, Russia</li>
+<li>The Museum, Presents Itself, <a href="/wiki/Tel_Aviv_Museum_of_Art" title="Tel Aviv Museum of Art">Tel Aviv Museum of Art</a>, <a href="/wiki/Tel_Aviv" title="Tel Aviv">Tel Aviv</a>, Israel</li>
+<li>Nord Art international exhibition, <a href="/wiki/B%C3%BCdelsdorf" title="Büdelsdorf">Büdelsdorf</a>, Germany</li>
+<li>Spring Exhibition, <a href="/wiki/Kunsthal_Charlottenborg" title="Kunsthal Charlottenborg">Kunsthal Charlottenborg</a>, Copenhagen, Denmark</li></ul>
+<h3><span class="mw-headline" id="2010">2010</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shahar_Marcus&amp;action=edit&amp;section=12" title="Edit section: 2010">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>As I remember, Kunstraum und Ateliers, <a href="/wiki/Dresden" title="Dresden">Dresden</a>, Germany</li>
+<li>Celeste prize finalists, The Invisible Dog, New York City, United States</li>
+<li>The Meaning of Windows, <a href="/wiki/Israel_Museum" title="Israel Museum">Israel Museum</a> youth wing, <a href="/wiki/Jerusalem" title="Jerusalem">Jerusalem</a>, Israel</li>
+<li>Israeli Video, <a href="/wiki/Haifa_Museum_of_Art" title="Haifa Museum of Art">Haifa Museum of Art</a>, Israel</li>
+<li>Trembling Time, <a href="/wiki/TATE_Modern" class="mw-redirect" title="TATE Modern">TATE Modern</a>, London – Screenings program dedicated to recent video art from Israel, Curators: <a href="/w/index.php?title=Stuart_Komer&amp;action=edit&amp;redlink=1" class="new" title="Stuart Komer (page does not exist)">Stuart Komer</a> and <a href="/wiki/Sergio_Edelsztein" title="Sergio Edelsztein">Sergio Edelsztein</a></li>
+<li>The Calm Before the Storm, Winzavod, Moscow</li></ul>
+<h3><span class="mw-headline" id="2009">2009</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shahar_Marcus&amp;action=edit&amp;section=13" title="Edit section: 2009">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>3rd Moscow <a href="/w/index.php?title=Biennale,_Moscow&amp;action=edit&amp;redlink=1" class="new" title="Biennale, Moscow (page does not exist)">Biennale, Moscow</a>, Curator: Irena Yshkova</li>
+<li>Nuit Blanch, Paris, France, Curator: Marie Shek</li>
+<li>Tina b Festival of Art, <a href="/wiki/Prague" title="Prague">Prague</a></li>
+<li>FUSO International Video Art Annual of Lisbon, <a href="/wiki/Lisbon" title="Lisbon">Lisbon</a>, Portugal</li>
+<li>Naoussa International Film Festival, Greece</li>
+<li><a href="/w/index.php?title=Athens_Video_Art_Festival&amp;action=edit&amp;redlink=1" class="new" title="Athens Video Art Festival (page does not exist)">Athens Video Art Festival</a> 2009, <a href="/wiki/Athens" title="Athens">Athens</a>, Greece</li>
+<li>Performance Evening, <a href="/wiki/Israel_Museum" title="Israel Museum">Israel Museum</a> Sculpture Garden, <a href="/wiki/Jerusalem" title="Jerusalem">Jerusalem</a>, curator: Amitai Mendelson</li></ul>
+<h3><span class="mw-headline" id="2008">2008</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shahar_Marcus&amp;action=edit&amp;section=14" title="Edit section: 2008">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Real Thing, Braverman Gallery, <a href="/wiki/Tel_Aviv" title="Tel Aviv">Tel Aviv</a></li>
+<li>Wa(h)re Kunst, Concent art e.V. Gallery, <a href="/wiki/Berlin" title="Berlin">Berlin</a>, Germany</li>
+<li>First Show, Contemporary Art from the <a href="/wiki/Israel_Museum" title="Israel Museum">Israel Museum</a>, Mani House, <a href="/wiki/Tel_Aviv" title="Tel Aviv">Tel Aviv</a></li>
+<li>EPAF 2008, European Performance Art Festival, <a href="/wiki/Warsaw" title="Warsaw">Warsaw</a></li>
+<li>Freeze, <a href="/wiki/Israel_Museum" title="Israel Museum">Israel Museum</a>, Real Time Art in Israel 1998–2008, <a href="/wiki/Jerusalem" title="Jerusalem">Jerusalem</a>, Israel</li></ul>
+<h3><span class="mw-headline" id="2007">2007</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shahar_Marcus&amp;action=edit&amp;section=15" title="Edit section: 2007">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Homecoming Artist, <a href="/wiki/Magmart" title="Magmart">Magmart I video under volcano</a>, <a href="/wiki/Naples" title="Naples">Naples</a>, Italy</li>
+<li>Homecoming Artist, 700.is, <a href="/wiki/Egilsstadir" class="mw-redirect" title="Egilsstadir">Egilsstadir</a>, Iceland</li>
+<li>Rites &amp; Rituals, <a href="/w/index.php?title=Herzliya_Museum_of_contemporary_art&amp;action=edit&amp;redlink=1" class="new" title="Herzliya Museum of contemporary art (page does not exist)">Herzliya Museum of contemporary art</a>, <a href="/wiki/Herzliya" title="Herzliya">Herzliya</a></li>
+<li>A Quest from Sea to Sea, video, <a href="/wiki/Israel_Museum" title="Israel Museum">Israel Museum</a> youth wing, <a href="/wiki/Jerusalem" title="Jerusalem">Jerusalem</a></li>
+<li>Homecoming Artist, video, exhibition for awards winners by the Ministry of Education And Culture, <a href="/w/index.php?title=Petach_Tkiva_Museum_of_Art&amp;action=edit&amp;redlink=1" class="new" title="Petach Tkiva Museum of Art (page does not exist)">Petach Tkiva Museum of Art</a>, <a href="/wiki/Petah_Tikva" title="Petah Tikva">Petach Tikva</a>, Israel</li></ul>
+<h3><span class="mw-headline" id="2006">2006</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shahar_Marcus&amp;action=edit&amp;section=16" title="Edit section: 2006">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Cover, Galataperform, <a href="/wiki/Istanbul" title="Istanbul">Istanbul</a>, Turkey</li>
+<li>Gefilte tish, <a href="/wiki/Israel_Museum" title="Israel Museum">Israel Museum</a> youth wing, <a href="/wiki/Jerusalem" title="Jerusalem">Jerusalem</a></li></ul>
+<h3><span class="mw-headline" id="2005">2005</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shahar_Marcus&amp;action=edit&amp;section=17" title="Edit section: 2005">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Precise, Blur 5 International Biennale for Performance Art, <a href="/wiki/Tel_Aviv" title="Tel Aviv">Tel Aviv</a></li>
+<li>Cover, L.M.P Theatre, C.R.A.N.E Art Tulage, Chateau de Chevigny, France</li></ul>
+<h3><span class="mw-headline" id="2003">2003</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shahar_Marcus&amp;action=edit&amp;section=18" title="Edit section: 2003">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Freeze, Blur 4 International Biennale for Performance Art, <a href="/wiki/Jaffa" title="Jaffa">Jaffa</a></li>
+<li>Soak Art Focus 4, <a href="/wiki/Jerusalem" title="Jerusalem">Jerusalem</a></li></ul>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shahar_Marcus&amp;action=edit&amp;section=19" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:35px auto;"><a href="/wiki/File:Freeze_film.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Freeze_film.jpg/120px-Freeze_film.jpg" decoding="async" width="120" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Freeze_film.jpg/180px-Freeze_film.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Freeze_film.jpg/240px-Freeze_film.jpg 2x" data-file-width="400" data-file-height="267" /></a></div></div>
+			<div class="gallerytext">
+<p>Still from "Freeze", <a href="/wiki/Israel_Museum" title="Israel Museum">Israel Museum</a> Collection
+</p>
+			</div>
+		</div></li>
+</ul>
+<h2><span class="mw-headline" id="Articles">Articles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shahar_Marcus&amp;action=edit&amp;section=20" title="Edit section: Articles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>HA'ARETZ – GUIDE, 2 April 2010</li>
+<li>City Mouse, 27 May 2010</li>
+<li>"Tel Aviv", TIME OUT – Fresh Paint, 29 April 2010</li>
+<li>ISLAND CHANNEL, HAARETZ-FRONT, 17 August 2010</li>
+<li>BELLEMODE, 1 September 2010</li>
+<li>"Tower of Babel", Pnai Plus, 28 September 2010</li>
+<li>THE JERUSALEM POST – METRO, 15 October 2010</li>
+<li>Yediot Hanegev, 12 November 2010</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shahar_Marcus&amp;action=edit&amp;section=21" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imj.org.il/artcenter/newsite/en/?artist=273343">"Shahar Marcus"</a>. <i>Information Center for Israeli Art</i>. Israel Museum<span class="reference-accessdate">. Retrieved <span class="nowrap">27 September</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Information+Center+for+Israeli+Art&amp;rft.atitle=Shahar+Marcus&amp;rft_id=http%3A%2F%2Fwww.imj.org.il%2Fartcenter%2Fnewsite%2Fen%2F%3Fartist%3D273343&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShahar+Marcus" class="Z3988"></span></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shahar_Marcus&amp;action=edit&amp;section=22" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.shaharmarcus.com/">Shahar Marcus</a>, (home page)</li>
+<li><a rel="nofollow" class="external text" href="http://www.artfacts.net/en/artist/shahar-marcus-148126/profile.html">ArtFacts</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.imj.org.il/en/search/site/Marcus%20and%20+Shahar">Shahar Marcus collection</a> at the Israel Museum. Retrieved 22 January 2012.</li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.imj.org.il/artcenter/newsite/en/?artist=273343">"Shahar Marcus"</a>. <i>Information Center for Israeli Art</i>. Israel Museum<span class="reference-accessdate">. Retrieved <span class="nowrap">22 January</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Information+Center+for+Israeli+Art&amp;rft.atitle=Shahar+Marcus&amp;rft_id=http%3A%2F%2Fwww.imj.org.il%2Fartcenter%2Fnewsite%2Fen%2F%3Fartist%3D273343&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShahar+Marcus" class="Z3988"></span></li>
+<li><a rel="nofollow" class="external text" href="https://www.europeana.eu/portal/search?q=Marcus%2C+Shahar">Art of Shahar Marcus</a> at <a href="/wiki/Europeana" title="Europeana">Europeana</a>. Retrieved 22 January 2012</li></ul>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q7461455#identifiers&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q7461455#identifiers&amp;#124;Edit_this_at_Wikidata" style="font-size:114%;margin:0 4em"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q7461455#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/1138132489">Integrated Authority File (Germany)</a></span></li>
+<li><a href="/wiki/VIAF_(identifier)" class="mw-redirect" title="VIAF (identifier)">VIAF</a>
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/308698927">1</a></span></li></ul></li>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/viaf-308698927">WorldCat</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National libraries</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="http://uli.nli.org.il/F/?func=direct&amp;doc_number=001445452&amp;local_base=nlx10">Israel</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Art research institutes</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://www.imj.org.il/artcenter/newsite/en/?artist=273343">ICIA (Israel)</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1326
+Cached time: 20210920063235
+Cache expiry: 86400
+Reduced expiry: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.345 seconds
+Real time usage: 0.470 seconds
+Preprocessor visited node count: 1799/1000000
+Post‐expand include size: 30004/2097152 bytes
+Template argument size: 2476/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 8/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4736/5000000 bytes
+Lua time usage: 0.167/10.000 seconds
+Lua memory usage: 5260542/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  410.991      1 -total
+ 22.95%   94.317      1 Template:Infobox_artist
+ 21.89%   89.956      2 Template:IMJ-IAC
+ 21.28%   87.470      1 Template:Infobox_person
+ 21.22%   87.217      2 Template:Cite_web
+ 17.35%   71.300      2 Template:Ambox
+ 15.57%   63.999      1 Template:Short_description
+ 12.24%   50.322      1 Template:Infobox
+ 10.77%   44.257      1 Template:BLP_sources
+  9.99%   41.043      1 Template:Authority_control
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:33232620-0!canonical and timestamp 20210920063235 and revision id 1016943884. Serialized with JSON.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Shahar_Marcus&amp;oldid=1016943884">https://en.wikipedia.org/w/index.php?title=Shahar_Marcus&amp;oldid=1016943884</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Israeli_performance_artists" title="Category:Israeli performance artists">Israeli performance artists</a></li><li><a href="/wiki/Category:Israeli_artists" title="Category:Israeli artists">Israeli artists</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:1971_births" title="Category:1971 births">1971 births</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_April_2018" title="Category:Use dmy dates from April 2018">Use dmy dates from April 2018</a></li><li><a href="/wiki/Category:Orphaned_articles_from_November_2016" title="Category:Orphaned articles from November 2016">Orphaned articles from November 2016</a></li><li><a href="/wiki/Category:All_orphaned_articles" title="Category:All orphaned articles">All orphaned articles</a></li><li><a href="/wiki/Category:BLP_articles_lacking_sources_from_November_2016" title="Category:BLP articles lacking sources from November 2016">BLP articles lacking sources from November 2016</a></li><li><a href="/wiki/Category:All_BLP_articles_lacking_sources" title="Category:All BLP articles lacking sources">All BLP articles lacking sources</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Articles_with_GND_identifiers" title="Category:Articles with GND identifiers">Articles with GND identifiers</a></li><li><a href="/wiki/Category:Articles_with_VIAF_identifiers" title="Category:Articles with VIAF identifiers">Articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Articles_with_NLI_identifiers" title="Category:Articles with NLI identifiers">Articles with NLI identifiers</a></li><li><a href="/wiki/Category:Articles_with_ICIA_identifiers" title="Category:Articles with ICIA identifiers">Articles with ICIA identifiers</a></li><li><a href="/wiki/Category:Articles_with_WORLDCATID_identifiers" title="Category:Articles with WORLDCATID identifiers">Articles with WORLDCATID identifiers</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading"> <span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item">Not logged in</li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Shahar+Marcus" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Shahar+Marcus" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading"> <span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/Shahar_Marcus" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/Talk:Shahar_Marcus" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class=" vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading"> <span>Variants</span>
+			<span class="vector-menu-checkbox-expanded">expanded</span>
+			<span class="vector-menu-checkbox-collapsed">collapsed</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading"> <span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/Shahar_Marcus">Read</a></li><li id="ca-edit" class="mw-list-item"><a href="/w/index.php?title=Shahar_Marcus&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=Shahar_Marcus&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options"
+	 >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class=" vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading"> <span>More</span>
+			<span class="vector-menu-checkbox-expanded">expanded</span>
+			<span class="vector-menu-checkbox-collapsed">collapsed</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" class="vector-search-box">
+	<div>
+		<h3 >
+			<label for="searchInput">Search</label>
+		</h3>
+		<form action="/w/index.php" id="searchform">
+			<div id="simpleSearch" data-search-loc="header-navigation">
+				<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+				<input type="hidden" name="title" value="Special:Search"/>
+				<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading"> <span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
+	</div>
+</nav>
+
+	<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label" class="vector-menu-heading"> <span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading"> <span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Shahar_Marcus" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Shahar_Marcus" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Shahar_Marcus&amp;oldid=1016943884" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Shahar_Marcus&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Shahar_Marcus&amp;id=1016943884&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7461455" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading"> <span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Shahar_Marcus&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Shahar_Marcus&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading"> <span>In other projects</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Shahar_Marcus" hreflang="en">Wikimedia Commons</a></li></ul>
+		
+	</div>
+</nav>
+
+	<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" class="vector-menu-heading"> <span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%A9%D7%97%D7%A8_%D7%9E%D7%A8%D7%A7%D7%95%D7%A1" title="שחר מרקוס – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87%D8%A7%D8%B1_%D9%85%D8%A7%D8%B1%D9%83%D9%88%D8%B3" title="شاهار ماركوس – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7461455#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 9 April 2021, at 22:20<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Shahar_Marcus&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.345","walltime":"0.470","ppvisitednodes":{"value":1799,"limit":1000000},"postexpandincludesize":{"value":30004,"limit":2097152},"templateargumentsize":{"value":2476,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":4736,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  410.991      1 -total"," 22.95%   94.317      1 Template:Infobox_artist"," 21.89%   89.956      2 Template:IMJ-IAC"," 21.28%   87.470      1 Template:Infobox_person"," 21.22%   87.217      2 Template:Cite_web"," 17.35%   71.300      2 Template:Ambox"," 15.57%   63.999      1 Template:Short_description"," 12.24%   50.322      1 Template:Infobox"," 10.77%   44.257      1 Template:BLP_sources","  9.99%   41.043      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.167","limit":"10.000"},"limitreport-memusage":{"value":5260542,"limit":52428800}},"cachereport":{"origin":"mw1326","timestamp":"20210920063235","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Shahar Marcus","url":"https:\/\/en.wikipedia.org\/wiki\/Shahar_Marcus","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7461455","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7461455","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2011-09-27T20:56:08Z","dateModified":"2021-04-09T22:20:26Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/4f\/Shahar_Marcus.jpg","headline":"Israeli artist"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":625,"wgHostname":"mw1326"});});</script>
+</body></html>
