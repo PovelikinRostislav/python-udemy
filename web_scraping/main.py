@@ -42,14 +42,43 @@ def grab_table_of_content_bullets(soup):
         print(f"\t'{b.get_text()}'")
 
     print(section_delimiter)
-    return
+    return bullets
 
+def grab_images(soup):
+    images = soup.select("img")
+
+    print(f"The page contains {len(images)} images as a part of content. Here they are:")
+
+    for i in images:
+        print(f"\t{i}")
+
+    jpg_images = [image for image in images if ".jpg" in image['src']]
+
+    print(section_delimiter)
+    print(f"The page contains {len(jpg_images)} JPG images. Here they are:")
+
+    for idx, jpg in enumerate(jpg_images):
+        print(f"\t{jpg}")
+        jpg_path = f"image_{idx}.jpg"
+
+        if not exists(jpg_path):
+            jpg_url = "https:" + jpg["src"]
+            print(f"\t\tTrying to request the image by this url: {jpg_url}")
+            jpg_image_content = requests.get(jpg_url)
+            with open(jpg_path, mode="wb") as byte_file:
+                byte_file.write(jpg_image_content.content)
+
+        print(f"\t\tJPG image saved at {jpg_path}")
+
+    print(section_delimiter)
+    return images
 
 def main():
     response_content = get_content()
     soup = bs4.BeautifulSoup(response_content, "lxml")
     grab_title_and_paragraphs(soup)
     grab_table_of_content_bullets(soup)
+    grab_images(soup)
 
 
 
